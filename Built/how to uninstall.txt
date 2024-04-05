@@ -1,0 +1,5 @@
+bloxstrap menu > fast flags > remove all fast flags
+
+or
+
+uninstall bloxstrap and go back to your original client
