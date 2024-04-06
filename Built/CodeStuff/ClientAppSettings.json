@@ -1,8 +1,0 @@
-{
-  "FFlagHandleAltEnterFullscreenManually": "False",
-  "FLogNetwork": "7",
-  "DFIntTaskSchedulerTargetFps": "144",
-  "FFlagDebugLocalRccServerConnection": "true",
-  "FFlagRefactorPlayerConnect": "false",
-  "FFlagFixGraphicsQuality": "True"
-}
